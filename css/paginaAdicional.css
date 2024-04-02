@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(0, 157, 255);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 82px;
+}
+
+img{
+    height: 400px;
+    border-radius: 50px;
+}
+
+img:hover{
+    height: 500px;
+}
+
+input{
+    color: black;
+    border: 1px solid white; 
+}
+
+input:hover{
+    transition: 0.8s;
+    background-color: white;
+    box-shadow: black 5px 10px;
+}
+
+button{
+    background-color: blue;
+}
+
+button:hover{
+    font-weight: bold;
+    border: none;
+}
+
+footer{
+    background-color: rgb(0, 137, 222);
+    padding: 15px 30px;
+    text-align: center;
+}
